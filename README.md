@@ -42,7 +42,7 @@ The dataset includes:
 - **Jameel Ahmed**
 - **Data Analyst**
 - **LinkedIn: (https://www.linkedin.com/in/jameel-ahmed9/)**
-- **GitHub: (https://github.com/Jameel-DA/FNP_Sales_Analysis-Excel/edit/main)**
+- **GitHub: (https://github.com/Jameel-DA/FNP_Sales_Analysis-Excel)**
 
 ## **License**
 This project is licensed under the MIT License.
