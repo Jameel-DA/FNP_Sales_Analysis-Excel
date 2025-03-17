@@ -32,6 +32,10 @@ The dataset includes:
 - **Geographical Trends**: Panchkula, Machilipatnam, and Kavali are top-performing cities.
 - **Occasion-Based Trends**: Raksha Bandhan and Anniversaries contribute significantly to sales.
 
+## Dashboard
+
+![Screenshot (495)]()
+
 ## **Conclusion and Recommendations**
 - Improve inventory management for peak sales periods.
 - Optimize logistics to reduce delivery time for bulk orders.
