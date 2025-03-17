@@ -34,7 +34,7 @@ The dataset includes:
 
 ## Dashboard
 
-![Screenshot (495)]()
+![Screenshot (495)](https://github.com/Jameel-DA/FNP_Sales_Analysis-Excel/blob/main/fnp.png)
 
 ## **Conclusion and Recommendations**
 - Improve inventory management for peak sales periods.
